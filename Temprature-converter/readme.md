@@ -36,5 +36,4 @@ Basics jQuery and bootstrap knowledge.
 <p>
 <a href="https://www.instagram.com/mad.roshan_24/">Instagram</a> &ensp;
 <a href="https://www.linkedin.com/in/roshan-madle-76bb58258/">Linked In</a> &ensp;
-<a href="https://dev.to/karankmr">Dev.to</a> &ensp;
 </p>
